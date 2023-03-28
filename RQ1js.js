@@ -21,30 +21,30 @@ let questions = [
         correct : "A"
     },{
         question : "What state am I from?",
-        imgSrc : "img/css.png",
+        imgSrc : "usamap.png",
         choiceA : "Colorado",
         choiceB : "Illinois",
         choiceC : "Arizona",
         correct : "B"
     },{
         question : "How many siblings do I have?",
-        imgSrc : "img/js.png",
+        imgSrc : "fam.png",
         choiceA : "2",
         choiceB : "3",
         choiceC : "4",
         correct : "C"
     },{
         question : "What color are my nails?",
-        imgSrc : "img/html.png",
+        imgSrc : "nails.png",
         choiceA : "Pink",
         choiceB : "Red",
         choiceC : "White",
         correct : "A"
     },{
         question : "What is my hobby?",
-        imgSrc : "img/js.png",
+        imgSrc : "hobby.png",
         choiceA : "Singing",
-        choiceB : "Drinking",
+        choiceB : "Beekeeping",
         choiceC : "Running",
         correct : "C"
     }

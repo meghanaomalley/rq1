@@ -14,7 +14,7 @@ const scoreDiv = document.getElementById("scoreContainer");
 let questions = [
     {
         question : "What is my fav color?",
-       // imgSrc : "img/html.png",
+        imgSrc : "colorwheel.jpg",
         choiceA : "Green",
         choiceB : "Blue",
         choiceC : "Pink",
